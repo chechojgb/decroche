@@ -1,1 +1,1 @@
-Decroche proyecto enfocado al sector textil
+Decroche, proyecto enfocado al sector textil
