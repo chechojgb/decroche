@@ -11,7 +11,9 @@ En decroche contamos con un metodo de pago por medio de la API de mercado pago p
 TARJETA DE PRUEBA
 
 Numero: 3743 781877 55283
+
 Codigo de seguridad: 1234
+
 Fecha de vencimiento: 11/25
 
 Documento: 123456789
