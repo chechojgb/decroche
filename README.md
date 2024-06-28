@@ -1,4 +1,4 @@
-Decroche, proyecto enfocado al sector textil ㅤㅤㅤㅤ https://decroche.000webhostapp.com/
+Decroche, proyecto enfocado al sector textil ㅤㅤㅤㅤㅤㅤㅤ https://decroche.000webhostapp.com/
 
 
 
