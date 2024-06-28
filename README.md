@@ -3,6 +3,7 @@ Decroche, proyecto enfocado al sector textil ㅤㅤㅤㅤㅤㅤㅤ https://decro
 
 
 Estructuracion de la BD:
+
 ![image](https://github.com/chechojgb/decroche/assets/100326731/c84dae6c-ef76-4cd7-94f7-5701ea05f4e0)
 
 
